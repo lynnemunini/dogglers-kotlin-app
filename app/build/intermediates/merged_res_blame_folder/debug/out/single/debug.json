@@ -40,6 +40,10 @@
         "source": "/home/lynne/.gradle/daemon/7.4.2/com.example.dogglers.app-main-31:/layout/activity_horizontal_list.xml"
     },
     {
+        "merged": "com.example.dogglers.app-merged_res-29:/layout_grid_list_item.xml.flat",
+        "source": "com.example.dogglers.app-main-31:/layout/grid_list_item.xml"
+    },
+    {
         "merged": "/home/lynne/.gradle/daemon/7.4.2/com.example.dogglers.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/home/lynne/.gradle/daemon/7.4.2/com.example.dogglers.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
     },
