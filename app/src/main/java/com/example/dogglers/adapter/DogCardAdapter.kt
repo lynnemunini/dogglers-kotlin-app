@@ -81,9 +81,9 @@ class DogCardAdapter(
         // TODO: Set the image resource for the current dog
         holder.imageView.setImageResource(item.imageResourceId)
         // TODO: Set the text for the current dog's name
-        holder.nameView.text =  context?.resources?.getString(position)
+        holder.nameView.text =  item.name
         // TODO: Set the text for the current dog's age
-        holder.ageView.text = context?.resources?.getString(position)
+        holder.ageView.text = item.age
         val resources = context?.resources
         // TODO: Set the text for the current dog's hobbies by passing the hobbies to the
         //  R.string.dog_hobbies string constant.
