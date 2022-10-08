@@ -48,7 +48,7 @@ class DogCardAdapter(
         val imageView : ImageView = view!!.findViewById(R.id.dog_image)
         val nameView : TextView = view!!.findViewById(R.id.dog_name)
         val ageView : TextView = view!!.findViewById(R.id.dog_age)
-        // val hobbyView : TextView = view!!.findViewById(R.id.dog_hobbies)
+        val hobbyView : TextView = view!!.findViewById(R.id.dog_hobbies)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): DogCardViewHolder {
@@ -84,6 +84,7 @@ class DogCardAdapter(
         holder.nameView.text =  item.name
         // TODO: Set the text for the current dog's age
         holder.ageView.text = item.age
+        holder.hobbyView.text = item.hobbies
         val resources = context?.resources
         // TODO: Set the text for the current dog's hobbies by passing the hobbies to the
         //  R.string.dog_hobbies string constant.
