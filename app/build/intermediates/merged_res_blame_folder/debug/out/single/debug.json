@@ -24,10 +24,6 @@
         "source": "/home/lynne/.gradle/daemon/7.4.2/com.example.dogglers.app-main-31:/drawable/bella.jpg"
     },
     {
-        "merged": "com.example.dogglers.app-merged_res-29:/layout_vertical_horizontal_list_item.xml.flat",
-        "source": "com.example.dogglers.app-main-31:/layout/vertical_horizontal_list_item.xml"
-    },
-    {
         "merged": "/home/lynne/.gradle/daemon/7.4.2/com.example.dogglers.app-merged_res-29:/drawable_ic_launcher_foreground.xml.flat",
         "source": "/home/lynne/.gradle/daemon/7.4.2/com.example.dogglers.app-main-31:/drawable/ic_launcher_foreground.xml"
     },

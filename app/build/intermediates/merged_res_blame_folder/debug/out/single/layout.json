@@ -16,10 +16,6 @@
         "source": "/home/lynne/.gradle/daemon/7.4.2/com.example.dogglers.app-main-31:/layout/vertical_horizontal_list_item.xml"
     },
     {
-        "merged": "com.example.dogglers.app-mergeDebugResources-28:/layout/vertical_horizontal_list_item.xml",
-        "source": "com.example.dogglers.app-main-31:/layout/vertical_horizontal_list_item.xml"
-    },
-    {
         "merged": "/home/lynne/.gradle/daemon/7.4.2/com.example.dogglers.app-mergeDebugResources-28:/layout/activity_vertical_list.xml",
         "source": "/home/lynne/.gradle/daemon/7.4.2/com.example.dogglers.app-main-31:/layout/activity_vertical_list.xml"
     },
